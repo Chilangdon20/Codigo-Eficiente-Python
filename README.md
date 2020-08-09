@@ -16,11 +16,11 @@
     <img src="https://raw.githubusercontent.com/Chilangdon20/IMAGENES/master/ImagenesPython/LogoRepo.gif?token=AOSXAED76EOZUEGQOPHUFBK7HGPLW" alt="Logo" width="250" height="250">
   </a>
 
-  <h3 align="center">Código eficiente & Buenas practicas</h3>
+  <h3 align="center">Código eficiente & Buenas practica 📚s</h3>
 
 
 <!-- TABLA DE CONTENDIO -->
-## Tabla de Contenido.
+## Tabla de Contenido 🦸‍♂️.
 
 
 * [Acerca del repositorio](#about-the-project)
@@ -33,7 +33,7 @@
 
 
 <!-- ACERCA DEL REPOSITORIO -->
-## Acerca del Repositorio
+## Acerca del Repositorio 📚
 
 ![Pokemon DataSet](https://raw.githubusercontent.com/Chilangdon20/IMAGENES/master/ImagenesPython/Captura%20de%20Pantalla%202020-08-09%20a%20la(s)%2015.54.07.png?token=AOSXAEGAFSNMTONPJQ3FSSK7HGVBC)
 
@@ -44,7 +44,10 @@ Todo esto lo hago con dos motivos:
 
 * Recordar conceptos que uso cuando necesito hacer análisis.
 
-### Construido con:
+Es importante tener bases solidas al momento de escribir código en cualquier lenguaje de programación, porlo que espero que te sirva este contendio.
+
+<!-- HERRAMIENTAS -->
+### Construido con 📚:
 
 El contenido esta construido con : 
 * [Python](https://www.python.org/)
@@ -52,6 +55,22 @@ El contenido esta construido con :
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
 
+<!-- CONTACTO -->
+
+### FOLLOW 👀!
+
+Si te sirvio de algo de agradeceria me siguieras en mis redes sociales o le dieras un 🌟 al repositorio.
+
+<a href="https://www.linkedin.com/in/fernando-v%C3%A1zquez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
+[![GitHub: Chilangdon](https://img.shields.io/github/followers/Chilangdon20?label=Chilangdon20&style=social)](https://github.com/Chilangdon20)
+
+
+</div>
+
+
 
     
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chilangdon20&cshow_icons=true&hide_border=true" />
+
+⭐️ From [Chilangdon20](https://github.com/Chilangdon20)
