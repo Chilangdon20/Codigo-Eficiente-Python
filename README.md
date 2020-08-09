@@ -28,6 +28,29 @@
 * [Código Eficiente en Pandas.](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/C%C3%B3digo%20Eficiente%20Pandas).
 * [Funciónes en Python.](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/Funci%C3%B3nes%20en%20Python)
 * [Breve Introducción a las clases](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/Breve%20introducci%C3%B3n%20a%20las%20clases)
+* [IMAGENES](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/IMAGENES)
+* [DATOS](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/DATA/Datos)
+
+
+<!-- ACERCA DEL REPOSITORIO -->
+## Acerca del Repositorio
+
+![Pokemon DataSet](https://raw.githubusercontent.com/Chilangdon20/IMAGENES/master/ImagenesPython/Captura%20de%20Pantalla%202020-08-09%20a%20la(s)%2015.54.07.png?token=AOSXAEGAFSNMTONPJQ3FSSK7HGVBC)
+
+Este repositorio es un conjunto de diferentes cursos acerca de las buenas prácticas al momento de escribír código en Python, entre ellos estan las plataformas DataCamp,Coursera,Udemy entre otras páginas.
+Todo esto lo hago con dos motivos:
+
+* Que otras personas les sirva de algo y aprendan.
+
+* Recordar conceptos que uso cuando necesito hacer análisis.
+
+### Construido con:
+
+El contenido esta construido con : 
+* [Python](https://www.python.org/)
+* [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
 
 
     
