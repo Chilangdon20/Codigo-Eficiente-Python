@@ -65,10 +65,14 @@ Si te sirvio de algo de agradeceria me siguieras en mis redes sociales o le dier
 
 [![GitHub: Chilangdon](https://img.shields.io/github/followers/Chilangdon20?label=Chilangdon20&style=social)](https://github.com/Chilangdon20)
 
+<!--Final-->
 
-⭐️ From [Chilangdon20](https://github.com/Chilangdon20)
+⭐️ Con cariño [Chilangdon20](https://github.com/Chilangdon20)
 
     
+<!--Stats-->
+
+## Estadísticas acerca de mi perfil:
 
 <img align = "center" src="https://github-readme-stats.vercel.app/api?username=Chilangdon20&show_icons=false">
 
