@@ -25,6 +25,9 @@
 
 * [Acerca del repositorio](#about-the-project)
 * [Código Eficiente en Python.](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/C%C3%B3digo%20Eiciente)
+* [Código Eficiente en Pandas.](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/C%C3%B3digo%20Eficiente%20Pandas).
+* [Funciónes en Python.](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/Funci%C3%B3nes%20en%20Python)
+* [Breve Introducción a las clases](https://github.com/Chilangdon20/Codigo-Eficiente-Python/tree/master/Breve%20introducci%C3%B3n%20a%20las%20clases)
 
 
     
