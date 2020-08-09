@@ -66,11 +66,9 @@ Si te sirvio de algo de agradeceria me siguieras en mis redes sociales o le dier
 [![GitHub: Chilangdon](https://img.shields.io/github/followers/Chilangdon20?label=Chilangdon20&style=social)](https://github.com/Chilangdon20)
 
 
-</div>
-
-
+⭐️ From [Chilangdon20](https://github.com/Chilangdon20)
 
     
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Chilangdon20&cshow_icons=true&hide_border=true" />
 
-⭐️ From [Chilangdon20](https://github.com/Chilangdon20)
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=Chilangdon20&show_icons=false">
+
