@@ -12,8 +12,8 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://raw.githubusercontent.com/Chilangdon20/IMAGENES/master/ImagenesPython/LogoRepo.gif?token=AOSXAED76EOZUEGQOPHUFBK7HGPLW" alt="Logo" width="250" height="250">
+  <a href="https://github.com/Chilangdon20/Codigo-Eficiente-Python">
+    <img src="https://raw.githubusercontent.com/Chilangdon20/IMAGENES/master/ImagenesPython/LogoRepo.gif?token=AOSXAEF3KJIORJ2AZZCFMFK7IXCL4" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">Código eficiente & Buenas practicas. 📚</h3>
